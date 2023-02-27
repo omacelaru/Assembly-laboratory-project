@@ -1,7 +1,9 @@
 Assembly laboratory project
 ========
 
-The application is used for many roads length k (k indicates the number of edges) exists between two nodes i and j in a directed graph.I used the multiplication of adjacency matrices
+The application is used for many roads length k (k indicates the number of edges) exists between two nodes i and j in a directed graph.
+
+I used the multiplication of adjacency matrices.
 
 Syntax
 ------
