@@ -7,6 +7,9 @@ Syntax
 ------
 AT&T Assembly Syntax
 
+Presentation of the project theme
+---------------------------------
+
 .. image:: https://github.com/omacelaru/Assembly-laboratory-project/blob/master/images/tema.png
    :alt: Tema
 
