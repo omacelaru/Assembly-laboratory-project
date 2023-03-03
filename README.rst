@@ -1,9 +1,7 @@
 Assembly laboratory project
 ========
 
-The application is used to find the number of paths of roads length k (k indicates the number of edges) exists between two nodes i and j in a directed graph.
-
-I used the multiplication of adjacency matrices.
+It finds the number of paths of given length k between two nodes in a directed graph by matrix exponentiation.
 
 Syntax
 ------
